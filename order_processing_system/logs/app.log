@@ -1,0 +1,16 @@
+2025-10-29 22:48:26,797 [INFO] order-system - No new messages found.
+2025-10-29 22:50:31,383 [INFO] order-system - No new messages found.
+2025-10-29 22:55:38,446 [INFO] order-system -  Listening to topic 'order_processing' / subscription 'order_subscription'
+2025-10-29 22:55:45,571 [INFO] order-system - No new messages found.
+2025-10-29 22:56:05,502 [INFO] order-system -  New Order Published | ID=ord-123 | Customer=Ramesh | Product=Laptop | Qty=1 | Price=50000.00 | Total=50000.00
+2025-10-29 22:56:14,177 [INFO] order-system -  Listening to topic 'order_processing' / subscription 'order_subscription'
+2025-10-29 22:56:16,378 [INFO] order-system -  Received Order | ID=ord-123 | Customer=Ramesh | Product=Laptop | Qty=1 | Price=50000.00 | Total=50000.00
+2025-10-29 22:56:16,387 [INFO] order-system -  Processed Order | ID=ord-123
+2025-10-29 22:56:38,110 [INFO] order-system - Health check endpoint hit.
+2025-10-29 22:57:17,876 [INFO] order-system -  Listening to topic 'order_processing' / subscription 'order_subscription'
+2025-10-29 22:57:25,117 [INFO] order-system - No new messages found.
+2025-10-29 22:58:08,583 [INFO] order-system -  New Order Published | ID=ord-1465 | Customer=somesh | Product=Mobile | Qty=1 | Price=5000.00 | Total=5000.00
+2025-10-29 22:58:12,202 [INFO] order-system - Health check endpoint hit.
+2025-10-29 22:58:24,149 [INFO] order-system -  Listening to topic 'order_processing' / subscription 'order_subscription'
+2025-10-29 22:58:26,101 [INFO] order-system -  Received Order | ID=ord-1465 | Customer=somesh | Product=Mobile | Qty=1 | Price=5000.00 | Total=5000.00
+2025-10-29 22:58:26,101 [INFO] order-system -  Processed Order | ID=ord-1465
